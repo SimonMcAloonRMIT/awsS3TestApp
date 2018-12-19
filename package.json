@@ -1,0 +1,21 @@
+{
+  "name": "awss3testapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-config": "^1.2.0",
+    "aws-sdk": "^2.378.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "html-pdf": "^2.2.0",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
+  }
+}
